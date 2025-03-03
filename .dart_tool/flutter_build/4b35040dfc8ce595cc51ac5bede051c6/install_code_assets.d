@@ -1,0 +1,1 @@
+ /home/DPaxtian/Documents/MFarm-App/MF-Store-App/.dart_tool/flutter_build/4b35040dfc8ce595cc51ac5bede051c6/native_assets.json: 
